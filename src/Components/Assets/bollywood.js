@@ -9,7 +9,7 @@ export const bollywood = [
   },
   {
     id: 2,
-    url: "https://assets.gadgets360cdn.com/pricee/assets/product/202206/Phone-Bhoot-poster_1656409397.jpg",
+    url: "https://cdn.bollywoodmdb.com/fit-in/movies/largethumb/2021/phone-bhoot/phone-bhoot-poster-2.jpg",
     type: "Bollywood",
     date: "Janary 24, 2023",
     about:

@@ -1,7 +1,7 @@
 export const hollywood = [
   {
     id: 1,
-    url: "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+    url: "https://a-static.besthdwallpaper.com/top-gun-maverick-s-sequel-top-gun-maverick-lead-actor-tom-cruise-wallpaper-1920x1440-95655_25.jpg",
     type: "Hollywood",
     date: "Janary 24, 2023",
     about:
@@ -10,7 +10,7 @@ export const hollywood = [
   },
   {
     id: 2,
-    url: "https://cdn.hmv.com/r/w-640/hmv/files/33/33c6f795-5c92-4931-9efd-88d4f83fcc2f.png",
+    url: "https://images6.alphacoders.com/123/1239922.jpg",
     type: "Hollywood",
     date: "Janary 24, 2023",
     about:
@@ -19,7 +19,7 @@ export const hollywood = [
   },
   {
     id: 3,
-    url: "https://akamaividz2.zee5.com/image/upload/w_504,h_756,c_scale,f_webp,q_auto:eco/resources/0-0-1z5129935/portrait/1920x77005473fab12714f4a9ba9dd2155bdb0ae.jpg",
+    url: "https://wallpaperaccess.com/full/35386.jpg",
     type: "Hollywood",
     date: "Janary 24, 2023",
     about:

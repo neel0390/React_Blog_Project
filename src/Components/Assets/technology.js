@@ -1,7 +1,7 @@
 export const technology = [
   {
     id: 1,
-    url: "https://lawwire.in/wp-content/uploads/2021/11/5G-Technology-The-way-Forward.jpeg",
+    url: "https://c8.alamy.com/comp/P4NFR3/5g-network-wireless-systems-and-internet-P4NFR3.jpg",
     type: "Technology",
     date: "Janary 24, 2023",
     about:
@@ -10,7 +10,7 @@ export const technology = [
   },
   {
     id: 2,
-    url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQufJup-LnBsOXmx3G9C1gnLNhc4qnBchQhHg&usqp=CAU",
+    url: "https://e1.pxfuel.com/desktop-wallpaper/125/969/desktop-wallpaper-web-development-posted-by-sarah-anderson-full-stack.jpg",
     type: "Technology",
     date: "Janary 24, 2023",
     about:
@@ -19,7 +19,7 @@ export const technology = [
   },
   {
     id: 3,
-    url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRQOmBvBkg6uZY9gXljyHsW6d7lPV3Wuozg&usqp=CAU",
+    url: "https://wallpaperaccess.com/full/1398313.jpg",
     type: "Technology",
     date: "Janary 24, 2023",
     about:
