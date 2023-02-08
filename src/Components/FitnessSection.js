@@ -1,8 +1,8 @@
 import React from "react";
-import { food } from "./utility/food";
+import { food } from "./Assets/food";
 import ImageCard from "./ImageCard";
 import { useNavigate } from "react-router-dom";
-import { fitness } from "./utility/fitness";
+import { fitness } from "./Assets/fitness";
 
 const FitnessSection = () => {
   const navigate = useNavigate();

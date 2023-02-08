@@ -1,7 +1,7 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import ImageCard from "./ImageCard";
-import { technology } from "./utility/technology";
+import { technology } from "./Assets/technology";
 
 const TechnologySection = () => {
   const navigate = useNavigate();

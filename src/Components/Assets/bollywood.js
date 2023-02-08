@@ -18,7 +18,7 @@ export const bollywood = [
   },
   {
     id: 3,
-    url: "https://media.newstrack.in/uploads/entertainment-news/bollywood-news/Apr/26/big_thumb/ALIA_626785cf272b4.JPG",
+    url: "https://cdn.wallpapersafari.com/40/4/vTtheN.jpeg",
     type: "Bollywood",
     date: "25 February 2022",
     title: "MOVIE: Gangubai Kathiawadi",

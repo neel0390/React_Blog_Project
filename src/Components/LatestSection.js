@@ -1,4 +1,4 @@
-import { places } from "./utility/Places";
+import { places } from "./Assets/Places";
 import ImageCard from "./ImageCard";
 import { useNavigate } from "react-router-dom";
 

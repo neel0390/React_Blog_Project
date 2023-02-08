@@ -1,11 +1,11 @@
 import { useEffect, useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
-import { places } from "./utility/Places";
-import { food } from "./utility/food";
-import { bollywood } from "./utility/bollywood";
-import { hollywood } from "./utility/hollywood";
-import { fitness } from "./utility/fitness";
-import { technology } from "./utility/technology";
+import { places } from "./Assets/Places";
+import { food } from "./Assets/food";
+import { bollywood } from "./Assets/bollywood";
+import { hollywood } from "./Assets/hollywood";
+import { fitness } from "./Assets/fitness";
+import { technology } from "./Assets/technology";
 import ImageCard from "./ImageCard";
 
 const typeObj = {

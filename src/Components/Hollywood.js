@@ -1,5 +1,5 @@
 import React from "react";
-import { hollywood } from "./utility/hollywood";
+import { hollywood } from "./Assets/hollywood";
 import HorizontalImageCard from "./HorizontalImageCard";
 import { useNavigate } from "react-router-dom";
 

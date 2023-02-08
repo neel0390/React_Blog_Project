@@ -1,8 +1,7 @@
 import React from "react";
-import { bollywood } from "./utility/bollywood";
+import { bollywood } from "./Assets/bollywood";
 import HorizontalImageCard from "./HorizontalImageCard";
 import { useNavigate } from "react-router-dom";
-import Footer from "./Footer";
 
 const Bollywood = () => {
   const navigate = useNavigate();

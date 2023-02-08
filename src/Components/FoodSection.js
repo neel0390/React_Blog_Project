@@ -1,5 +1,5 @@
 import React from "react";
-import { food } from "./utility/food";
+import { food } from "./Assets/food";
 import ImageCard from "./ImageCard";
 import { useNavigate } from "react-router-dom";
 

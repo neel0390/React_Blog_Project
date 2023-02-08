@@ -1,5 +1,5 @@
 import "./Home.css";
-import { banner } from "./utility/banner";
+import { banner } from "./Assets/banner";
 import ImageCard from "./ImageCard";
 
 const BannerSection = () => {
