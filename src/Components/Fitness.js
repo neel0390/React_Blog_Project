@@ -1,6 +1,6 @@
 import React from "react";
 import HorizontalImageCard from "./HorizontalImageCard";
-import { fitness } from "./utility/fitness";
+import { fitness } from "./Assets/fitness";
 import { useNavigate } from "react-router-dom";
 
 const Fitness = () => {

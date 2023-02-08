@@ -1,5 +1,5 @@
 import React from "react";
-import { technology } from "./utility/technology";
+import { technology } from "./Assets/technology";
 import HorizontalImageCard from "./HorizontalImageCard";
 import { useNavigate } from "react-router-dom";
 

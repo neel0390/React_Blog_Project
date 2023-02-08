@@ -1,7 +1,7 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import HorizontalImageCard from "./HorizontalImageCard";
-import { food } from "./utility/food";
+import { food } from "./Assets/food";
 
 const Food = () => {
   const navigate = useNavigate();

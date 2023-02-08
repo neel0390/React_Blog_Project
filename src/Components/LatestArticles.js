@@ -1,4 +1,4 @@
-import { places } from "./utility/Places";
+import { places } from "./Assets/Places";
 import HorizontalImageCard from "./HorizontalImageCard";
 
 const LatestArticles = () => {
