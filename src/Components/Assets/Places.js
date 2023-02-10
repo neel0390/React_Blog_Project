@@ -1,10 +1,10 @@
 export const places = [
   {
     id: 1,
-    url: "https://imageio.forbes.com/specials-images/dam/imageserve/1171238184/960x0.jpg?format=jpg&width=960",
-    title: "Bali",
+    url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtqCOR6esSFFaeP-1zdPcJs1N-zEkAAy9tVQ&usqp=CAU",
+    title: "Paris",
     about:
-      "Bali topped the list of the 50 most popular bucket list destination on earth, but there were also some unexpected picks.You’ll find beaches, volcanoes, Komodo dragons and jungles sheltering elephants, orangutans and tigers. Basically, it’s paradise.Over the years, the grace and charm of Bali and its people have earned this tiny Indonesian island numerous sobriquets of praise and homage including Island of the Gods, The Last Paradise, Land of a Thousand Temples, and Morning of the World. ",
+      "Paris is a city unlike any other. It is overflowing with culture, history, and beauty. And while people travel to Paris to see the Louvre, climb the Eiffel Tower, or see Notre-Dame, the real magic is found in the streets. Here, the ins and outs of daily life play out — chic women on bikes pedal their children to school, artists post up in cafés with a notebook, and both young and old line up morning and evening for a fresh baguette from the neighborhood boulangerie ",
     type: "Travel",
     date: "January 21, 2023",
   },

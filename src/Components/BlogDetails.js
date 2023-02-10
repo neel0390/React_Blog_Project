@@ -9,7 +9,7 @@ import { technology } from "./Assets/technology";
 import ImageCard from "./ImageCard";
 
 const typeObj = {
-  // contains all utility array based on type,for eg:if type is travel,then utility is places
+  // contains all Assets array based on type,for eg:if type is travel,then utility is places
   Travel: places,
   Food: food,
   Bollywood: bollywood,
